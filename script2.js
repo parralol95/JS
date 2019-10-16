@@ -1,247 +1,247 @@
 var questions =[{
-"question": "Yellow,Red,Blue, 1925",
-"option1": "Vasil'evič Kandinskij",
-"option2": "Mondrian",
-"option3": "Paul Klee",
-"option4": "Kasimir Malevič ",
+"question": "Puking",
+"option1": "As you like it, Act II, Scene VII",
+"option2": "Love's Labours Lost, Act I, Scene I",
+"option3": " King John, Act III, Scene I",
+"option4": "King Lear, Act II, Scene II ",
 "answer": "1" },
 
 {
-"question": "First Abstract Watercolor, 1910",
-"option1": "Vasil'evič Kandinskij",
-"option2": "Salvador Dali",
-"option3": "Theo van Deosburg",
-"option4": "Joan Miro",
-"answer": "1" },
+"question": "Addiction",
+"option1": "As you like it, Act I, Scene II",
+"option2": "Timon Of Athens, Act V, Scene I",
+"option3": "Macbeth, Act III, Scene V",
+"option4": "Othello, Act II; Scene II",
+"answer": "4" },
 
 {
-"question": "Red Square, 1915",
-"option1": "Sonia Delaunay",
-"option2": "kasimir Malevič",
-"option3": "Arshile Gorky",
-"option4": "Mark Rothko",
+"question": "Obscene",
+"option1": "Coriolanus, Act III, Scene II",
+"option2": "Love's Labours Lost, Act I, Scene I",
+"option3": "King Lear, Act I, Scene III",
+"option4": "Macbeth, Act I, Scene II",
+"answer": "3" },
+
+{
+"question": "Cold-blooded",
+"option1": "The Taming of the Shrew, Act IV, Scene V",
+"option2": "King John, Act III, Scene I",
+"option3": "Comedy of Errors, Act II, Scene II",
+"option4": "Tempest, Act I, Scene II",
 "answer": "2" },
 
 {
-"question": "Oh White II, 1923",
-"option1": "Vasil'evič Kandinskij",
-"option2": "Helen Frankenthaler",
-"option3": "Mikhail Larionov",
-"option4": "Piet Mondrian",
-"answer": "1" },
-
-{
-"question": "Once Emerged from the Gray of Night, 1918",
-"option1": "Willem de Kooning",
+"question": "Epileptic",
+"option1": "King Lear, Act II, Scene IV",
 "option2": "Mondrian",
 "option3": "Paul Klee",
 "option4": "Kasimir Malevič",
-"answer": "3" },
+"answer": "1" },
                
  {
-"question": "Several Circles, 1926",
+"question": "Arch-villain",
 "option1": "Robert Motherwell",
-"option2": "Mondrian",
+"option2": "Timon of Athens, Act V, Scene I",
 "option3": "Salvador Dali",
 "option4": "Vasil'evič Kandinskij",
-"answer": "4" }, 
+"answer": "2" }, 
 
 {
-"question": "The Meeting, 1916",
-"option1": "Lee Krasner",
+"question": "Assassination",
+"option1": "Macbeth, Act I, Scene VII",
 "option2": "Johannes Itten",
 "option3": "Frank Stella",
 "option4": "Morris Louis",
-"answer": "2" }, 
-                
-{
-"question": "Dynamic Suprematism, 1915-1916",
-"option1": "Franz Kline",
-"option2": "Theo van Deosburg",
-"option3": "Kasimir Malevič",
-"option4": "Robert Delaunay",
-"answer": "3" }, 
-                
-{
-"question": "Abstraction No 77 (tulip), 1925",
-"option1": "Kenneth Noland",
-"option2": "Mondrian",
-"option3": "Hans Arp",
-"option4": "Georgia O'Keeffe",
-"answer": "4" }, 
-                
-{
-"question": "Highway and Byways, 1929",
-"option1": "Paul Klee",
-"option2": "Lybuv Papova",
-"option3": "Mondrian",
-"option4": "Kasimir Malevič",
 "answer": "1" }, 
                 
 {
-"question": "New Harmony, 1936",
-"option1": "Mark Rothko",
-"option2": "Lybuv Papova",
-"option3": "Robert Motherwell",
-"option4": "Paul Klee",
+"question": "Bedazzled",
+"option1": "Franz Kline",
+"option2": "The Taming of the Shrew, Act IV, Scene V",
+"option3": "Kasimir Malevič",
+"option4": "Robert Delaunay",
+"answer": "2" }, 
+                
+{
+"question": "Belongings",
+"option1": "Kenneth Noland",
+"option2": "Mondrian",
+"option3": "Hans Arp",
+"option4": "Measure For Measure, Act I, Scene I",
 "answer": "4" }, 
                 
 {
-"question": "Black square, 1915",
+"question": "Dishearten",
+"option1": "Paul Klee",
+"option2": "Lybuv Papova",
+"option3": "Henry V, Act IV, Scene I",
+"option4": "Kasimir Malevič",
+"answer": "3" }, 
+                
+{
+"question": "Eventful",
+"option1": "Mark Rothko",
+"option2": "Lybuv Papova",
+"option3": "Robert Motherwell",
+"option4": "As You Like It, Act II, Scene VII",
+"answer": "4" }, 
+                
+{
+"question": "Fashionable",
 "option1": "Hans Hofmann",
-"option2": "Georges Braque",
+"option2": "Troilus And Cressida, Act III, Scene III",
 "option3": "Kasimir Malevič",
 "option4": "Mondrian",
 "answer": "3" }, 
                 
 {
-"question": "Suprematism, 1915",
-"option1": "Robert Delaunay",
+"question": "Inaudible",
+"option1": "All's Well That Ends Well, Act V, Scene III",
 "option2": "Paul Klee",
 "option3": "Kasimir Malevič",
 "option4": "Lee Krasner",
-"answer": "3" }, 
+"answer": "1 }, 
  
 {
-"question": "Russian Dance, 1918",
+"question": "Ladybird",
 "option1": "Mikhail Larionov",
-"option2": "Kasimir Malevič",
+"option2": "A Midsummer Night's Dream, Act V, Scene III",
 "option3": "Theo van Doesburg",
 "option4": "Lybuv Papova",
-"answer": "3" }, 
+"answer": "2" }, 
                 
 {
-"question": "Counter Composition V, 1924",
-"option1": "Theo van Doesburg",
+"question": "Manager",
+"option1": "A Midsummer Night's Dream, Act V, Scene I",
 "option2": "Lybuv Papova",
 "option3": "Joan Miro",
 "option4": "Hans Hofmann",
 "answer": "1" }, 
                 
 {
-"question": "Composition with Oval in Color Planes II, 1914",
-"option1": "Mikhail Larionov",
-"option2": "Piet Mondrian",
+"question": "Newfangled",
+"option1": "",
+"option2": "Love's Labour's Lost, Act I, Scene I",
 "option3": "Ellsworth Kelly",
 "option4": "Gerhard Richter",
 "answer": "2" }, 
                 
 {
-"question": "Composition With Red, Yellow and Blue, 1929",
+"question": "Pegeantry",
 "option1": "Kenneth Noland",
 "option2": "Sam Francis",
 "option3": "Paul Klee",
-"option4": "Piet Mondrian",
+"option4": "Pericles, Act V, Scene II",
 "answer": "4" }, 
 
 {
-"question": "Broadway boogie-woogie, 1942-1943",
-"option1": "Piet Mondrian",
+"question": "Scuffle",
+"option1": "Antony and Cleopatra, Act I, Scene I",
 "option2": "Kasimir Malevič",
 "option3": "Paul Klee",
 "option4": "Lybuv Papova",
 "answer": "1" },
                 
 {
-"question": "Composition in a color A, 1917",
+"question": "Swagger",
 "option1": "Wassily Kandinsky",
 "option2": "Kasimir Malevič",
 "option3": "Willem de Kooning",
-"option4": "Piet Mondrian",
+"option4": "Henry V, Act II, Scene IV",
 "answer": "4" },
                 
 {
-"question": "Homage to the square, 1957",
-"option1": "Josef Albers",
+"question": "Uncomfortable",
+"option1": "Romeo and Juliet, Act IV, Scene V",
 "option2": "Morris Louis",
 "option3": "Juan Gris",
 "option4": "Lybuv Papova",
 "answer": "1" },
                 
 {
-"question": "Separation in the Evening, 1922",
+"question": "Bloodstained",
 "option1": "Franz Kline",
 "option2": "Barnett Newman",
-"option3": "Paul Klee",
+"option3": "Titus Andronicus, Act II, Scene III",
 "option4": "Kenneth Noland",
 "answer": "3" },
                 
 {
-"question": "Morning in the Village after Snowstorm, 1913",
+"question": "Laughable",
 "option1": "Georges Braque",
 "option2": "Salvador Dali",
-"option3": "Kazimir Malevič",
+"option3": "The Merchant Of Venice, Act I, Scene I",
 "option4": "Piet Mondrian",
 "answer": "3" },
                 
 {
-"question": "Simultaneous Counter Composition., 1930",
+"question": "Negotiate",
 "option1": "Hans Arp",
 "option2": "Frank Stella",
-"option3": "Theo van Doesburg",
+"option3": "Much Ado About Nothing, Act II, Scene I",
 "option4": "Ellsworth Kelly",
 "answer": "3" }, 
                 
 {
-"question": "Premier disque, 1912",
-"option1": "Arshile Gorky",
+"question": "Outbrek",
+"option1": "Hamlet, Act II, Scene I",
 "option2": "Robert Motherwell",
 "option3": "Robert Delaunay",
 "option4": "Sam Francis",
-"answer": "3" },
+"answer": "1" },
                 
 {
-"question": "Autumn Rhythm, 1950",
+"question": "Rant",
 "option1": "Hans Arp",
-"option2": "Jackson Pollock",
+"option2": "Hamlet, Act V, Scene I",
 "option3": "Vasil'evič Kandinskij",
 "option4": "Josef Albers",
 "answer": "2" },
                 
 {
-"question": "The Joy of Life, 1930",
+"question": "Marketable",
 "option1": "Jackson Pollock",
 "option2": "Robert Delaunay",
-"option3": "Kazimir Malevič",
+"option3": "As You Like It, Act I, Scene II",
 "option4": "Paul Klee",
-"answer": "2" },
+"answer": "3" },
                 
 {
-"question": "Yellow Island, 1952",
+"question": "Savagery",
 "option1": "Juan Gris",
-"option2": "Jackson Pollock",
+"option2": "King John, Act IV, Scene III",
 "option3": "Georges Braque",
 "option4": "Robert Motherwell",
 "answer": "2" },
                 
 {
-"question": "Composition VII (the three graces), 1917",
+"question": "Jaded",
 "option1": "Franz Kline",
 "option2": "Lee Krasner",
-"option3": "The van Doesburg",
+"option3": "King Henry VI, Part II, Act IV, Scene I",
 "option4": "Willem de Kooning",
 "answer": "3" },
                 
 {
-"question": "Orange and Yellow, 1956",
+"question": "Lonely",
 "option1": "Mikhail Larionov",
 "option2": "Helen Frankenthaler",
 "option3": "Salvador Dali",
-"option4": "Mark Rothko",
+"option4": "Coriolanus, Act IV, Scene I",
 "answer": "4" },
 
 {
-"question": "Nulli Secundus, 1964",
+"question": "Moonbeam",
 "option1": "Hans Hofmann",
-"option2": "Frank Stella",
+"option2": "A Midsummer Night's Dream, Act III, Scene I",
 "option3": "Ellsworth Kelly",
 "option4": "Kenneth Noland",
-"answer": "1" },
+"answer": "2" },
 
 
 {
-"question": "The Green Stripe, 1955",
-"option1": "Mark Rothko",
+"question": "Torture",
+"option1": "King Henry VI, Part II, Scene I",
 "option2": "Jackosn Pollock",
 "option3": "Piet Mondrian",
 "option4": "Mikhail Larionov",
