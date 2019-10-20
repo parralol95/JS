@@ -1,81 +1,81 @@
 var questions =[{
 "question": "Ambodexter",
 "option1": "One who takes bribes from both sides",
-"option2": "Mondrian",
-"option3": "Paul Klee",
-"option4": "Kasimir Malevič ",
+"option2": "One who is skilled at working with hands",
+"option3": "Someone who has a bipolar behaviour",
+"option4": "One who takes part in an activity if it is convenient",
 "answer": "1" },
 
 {
 "question": "Betrump",
 "option1": "to deceive, cheat or to elude",
-"option2": "Salvador Dali",
-"option3": "Theo van Deosburg",
-"option4": "Joan Miro",
+"option2": "to defeat by playing cards",
+"option3": "to work intensively",
+"option4": "to overtake an opponent",
 "answer": "1" },
 
 {
 "question": "Coney-catch",
-"option1": "Sonia Delaunay",
+"option1": "to earn honestly",
 "option2": "To swindle,to deceive,",
-"option3": "Arshile Gorky",
-"option4": "Mark Rothko",
+"option3": "to keep something hidden",
+"option4": "to catch a rabbit",
 "answer": "2" },
 
 {
 "question": "Hugger-mugger",
 "option1": "Concealment; secretly",
-"option2": "Helen Frankenthaler",
-"option3": "Mikhail Larionov",
-"option4": "Piet Mondrian",
+"option2": "A person who keep a mug in his hands",
+"option3": "One who hug people",
+"option4": "Reconciliation",
 "answer": "1" },
 
 {
 "question": "Nickum",
-"option1": "Willem de Kooning",
-"option2": "Mondrian",
+"option1": "A place where people can share their problems",
+"option2": "A reliable person",
 "option3": "A cheating or dishonest person",
-"option4": "Kasimir Malevič",
+"option4": "One who tell the truth",
 "answer": "3" },
                
  {
 "question": "Quacksalver",
-"option1": "Robert Motherwell",
-"option2": "Mondrian",
-"option3": "Salvador Dali",
+"option1": "One who quickly saves lives",
+"option2": "An animal which quack",
+"option3": "A burglar alarm",
 "option4": "A person who dishonestly claims knowledge of or skill in medicine",
 "answer": "4" }, 
 
 {
 "question": "Rouker",
-"option1": "Lee Krasner",
+"option1": "One who speaks aloud",
 "option2": "A person who spreads tales or rumours",
-"option3": "Frank Stella",
-"option4": "Morris Louis",
+"option3": "One who speaks about tales",
+"option4": "One who make up stories",
 "answer": "2" }, 
                 
 {
 "question": "Man-millinery",
-"option1": "Franz Kline",
-"option2": "Theo van Deosburg",
+"option1": "A man who sells millinery",
+"option2": "A particular man's hat",
 "option3": "Suggestive of male vanity or pomposity",
-"option4": "Robert Delaunay",
+"option4": "handsome and generous",
 "answer": "3" }, 
                 
 {
 "question": "Parget",
-"option1": "Kenneth Noland",
-"option2": "Mondrian",
-"option3": "Hans Arp",
+"option1": "to remove a stain",
+"option2": "to whitewash the wall",
+"option3": "to dress appropriately",
 "option4": "To daub or plaster (the face or body) with powder or paint",
 "answer": "4" }, 
                 
 {
 "question": "Snout-fair",
 "option1": "Having a fair countenance; fair-faced, handsome",
-"option2": "Lybuv Papova",
-"option3": "Mondrian",
-"option4": "Kasimir Malevič",
+"option2": "having an ugly wax",
+"option3": "A good cigarette smoke",
+"option4": "Having a perfect face to be an actor",
 "answer": "1" }, 
                 
 {
