@@ -1,48 +1,48 @@
 var questions =[{
 "question": "Ognissanti Madonna, 1306, Ognissanti Church, Florence",
 "option1": "Giotto",
-"option2": "",
-"option3": "",
-"option4": "",
+"option2": "Pietro Cavallini",
+"option3": "Coppo di Marcovaldo",
+"option4": "Cimabue",
 "answer": "1" },
 
 {
 "question": "Good Sherpherd,mosaic, Mausoleum of Galla Placidia, Ravenna, 5th century CE",
-"option1": "",
-"option2": "",
-"option3": "",
+"option1": "Maestro Guglielmo",
+"option2": "Benedetto Antelami",
+"option3": "Maso di Banco",
 "option4": "Anonymous",
 "answer": "4" },
 
 {
 "question": "The Bury Bible,1130-1135, Bury St Edmunds, England, Corpus Christi College, MS 2, fol. 94",
-"option1": "",
+"option1": "Jacopo Torriti",
 "option2": "Master Hugo",
-"option3": "",
-"option4": "",
+"option3": "Coppo di Marcovaldo",
+"option4": "Altichiero",
 "answer": "2" },
 
 {
 "question": "Apse painting, Sant Clement in Taüll, 1123 (Museu Nacional d'Art de Catalunya, Barcelona)",
 "option1": "Master of Taüll ",
-"option2": "",
-"option3": "",
-"option4": "",
+"option2": "Arnolfo di Cambio",
+"option3": "Pietro Cavallini",
+"option4": "Tino di Camaino",
 "answer": "1" },
 
 {
 "question": "Santa Trinità Maestà, 1280-1285,Uffizi Gallery, Florence",
 "option1": "",
-"option2": "",
+"option2": "Arnolfo di Cambio",
 "option3": "Cimabue",
 "option4": "",
 "answer": "3" },
                
  {
 "question": "Maestà, 1308-1311, Siena Cathedral's museum ",
-"option1": "",
+"option1": "Jacopo Torriti",
 "option2": "",
-"option3": "",
+"option3": "Pietro Cavallini",
 "option4": "Duccio di Buoninsegna",
 "answer": "4" }, 
 
@@ -51,13 +51,13 @@ var questions =[{
 "option1": "",
 "option2": "Giotto",
 "option3": "",
-"option4": "",
+"option4": "Tino di Camaino",
 "answer": "2" }, 
                 
 {
 "question": "Crucifix, 1288, Santa Croce, Florence",
-"option1": "",
-"option2": "",
+"option1": "Jacopo Torriti",
+"option2": "Altichiero",
 "option3": "Cimabue",
 "option4": "",
 "answer": "3" }, 
@@ -65,8 +65,8 @@ var questions =[{
 {
 "question": "Allegory of the Good Government, 1338-40, Frescoes, Public Palace, Siena",
 "option1": "",
-"option2": "",
-"option3": "",
+"option2": "Coppo di Marcovaldo",
+"option3": "Pietro Cavallini",
 "option4": "Ambrogio Lorenzetti",
 "answer": "4" }, 
                 
@@ -81,8 +81,8 @@ var questions =[{
 {
 "question": "Rucellai Madonna, 1285, Uffizi Gallery, Florence ",
 "option1": "",
-"option2": "",
-"option3": "",
+"option2": "Arnolfo di Cambio",
+"option3": "Jacopo Torriti",
 "option4": "Duccio di Buoninsegna",
 "answer": "4" }, 
                 
@@ -96,16 +96,16 @@ var questions =[{
                 
 {
 "question": "The Flagellation of Christ, 1280, The Frick Collection",
-"option1": "",
-"option2": "",
+"option1": "Altichiero",
+"option2": "Pietro Cavallini",
 "option3": "Cimabue",
 "option4": "",
 "answer": "3" }, 
  
 {
 "question": "Annunciation, 1308-1311, London National Gallery",
-"option1": "",
-"option2": "",
+"option1": "Tino di Camaino",
+"option2": "Jacopo Torriti",
 "option3": "Duccio di Buoninsegna",
 "option4": "",
 "answer": "3" }, 
@@ -115,12 +115,12 @@ var questions =[{
 "option1": "Pietro lorenzetti",
 "option2": "",
 "option3": "",
-"option4": "",
+"option4": "Coppo di Marcovaldo",
 "answer": "1" }, 
                 
 {
 "question": "Pentecost, Staatliche Museen, Berlin, 1335-1340 ",
-"option1": "",
+"option1": "Arnolfo di Cambio",
 "option2": "Taddeo Gaddi",
 "option3": "",
 "option4": "",
@@ -130,7 +130,7 @@ var questions =[{
 "question": "Virgin Mary and Child, Louvre Museum, 1354",
 "option1": "",
 "option2": "",
-"option3": "",
+"option3": "Pietro Cavallini",
 "option4": "Paolo Veneziano",
 "answer": "4" }, 
 
@@ -138,14 +138,14 @@ var questions =[{
 "question": "Predella panel: Hermits at the Fountain of Elijah, Siena Gallery, 1328-1329",
 "option1": "Pietro Lorenzetti",
 "option2": "",
-"option3": "",
-"option4": "",
+"option3": "Jacopo Torriti",
+"option4": "Altichiero",
 "answer": "1" },
                 
 {
 "question": "Belleville Breviary",
 "option1": "",
-"option2": "",
+"option2": "Coppo di Marcovaldo",
 "option3": "",
 "option4": "Jean Pucelle",
 "answer": "4" },
@@ -153,8 +153,8 @@ var questions =[{
 {
 "question": "Madonna with child, 1283, Museum of Santa Verdiana",
 "option1": "Cimabue",
-"option2": "",
-"option3": "",
+"option2": "Tino di Camaino",
+"option3": "Jacopo Torriti",
 "option4": "",
 "answer": "1" },
                 
@@ -168,8 +168,8 @@ var questions =[{
                 
 {
 "question": " January, Les Très Riches Heures du Duc de Berry, illumination, 1413-16, (Musée Condé, Chantilly)",
-"option1": "",
-"option2": "",
+"option1": "Arnolfo di Cambio",
+"option2": "Pietro Cavallini",
 "option3": "Limbourg brothers",
 "option4": "",
 "answer": "3" },
@@ -177,23 +177,23 @@ var questions =[{
 {
 "question": "Virgin and Child with Saints, 1325, Isabella Stewart Gardner Museum ",
 "option1": "",
-"option2": "",
+"option2": "Jacopo Torriti",
 "option3": "Simone Martini",
-"option4": "",
+"option4": "Tino di Camaino",
 "answer": "3" }, 
                 
 {
 "question": "Universal Man, 1165, illustration from Liber Divinorum Operum",
 "option1": "",
-"option2": "",
+"option2": "Coppo di Marcovaldo",
 "option3": "Hildegard Von Bingen",
-"option4": "",
+"option4": "Altichiero",
 "answer": "3" },
                 
 {
 "question": "Allegory of Bad Governement, 1338-1340, Frescoes, Public Palace, Siena",
 "option1": "",
-"option2": "",
+"option2": "Ambrogio Lorenzetti",
 "option3": "",
 "option4": "",
 "answer": "2" },
@@ -208,16 +208,16 @@ var questions =[{
                 
 {
 "question": "Scenes of the Life of St Nicholas, 1332, Uffizi Gallery, Florence",
-"option1": "",
+"option1": "Arnolfo di Cambio",
 "option2": "Ambrogio Lorenzetti",
 "option3": "",
-"option4": "",
+"option4": "Altichiero",
 "answer": "2" },
                 
 {
 "question": "Saint Catherine of Alexandria Polyptych or Pisa Polyptych, 1320, National Museum of San Matteo",
 "option1": "",
-"option2": "",
+"option2": "Jacopo Torriti",
 "option3": "Simone Martini",
 "option4": "",
 "answer": "3" },
@@ -225,26 +225,26 @@ var questions =[{
 {
 "question": "Allegory of Gluttony and Lust, Yale University Art Gallery, New Haven",
 "option1": "",
-"option2": "",
+"option2": "Coppo di Marcovaldo",
 "option3": "",
-"option4": "BOSCH, Hieronymus",
+"option4": "Hieronymus Bosch",
 "answer": "4" },
 
 {
 "question": "Legend of St. Francis, frescoes, 1297-1299, Upper Church, St. Francis, Assisi",
 "option1": "Giotto",
-"option2": "",
-"option3": "",
-"option4": "",
+"option2": "Tino di Camaino",
+"option3": "Arnolfo di Cambio",
+"option4": "Jacopo Torriti",
 "answer": "1" },
 
 
 {
 "question": "Petrarch's Virgil, 1336, illustration, the Ambrosian Art Gallery, Milan, Italy",
 "option1": "Simone Martini",
-"option2": "",
-"option3": "",
-"option4": "",
+"option2": "Coppo di Marcovaldo",
+"option3": "Pietro Cavallini
+"option4": "Altichiero",
 "answer": "1" }
 
 ]
