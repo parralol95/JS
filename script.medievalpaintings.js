@@ -107,7 +107,7 @@ var questions =[{
 "option1": "Tino di Camaino",
 "option2": "Jacopo Torriti",
 "option3": "Duccio di Buoninsegna",
-"option4": "",
+"option4": "Ende or En",
 "answer": "3" }, 
                 
 {
