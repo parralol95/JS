@@ -33,9 +33,9 @@ var questions =[{
 {
 "question": "Epileptic",
 "option1": "King Lear, Act II, Scene IV",
-"option2": "Julius Caesar, Act III, Scene I",
-"option3": "Antony and Cleopatra, Act I, Scene III",
-"option4": "Hamlet, Act II, Scene I",
+"option2": "Coriolanus, Act I, Scene III",
+"option3": "Hamlet, Act III, Scene I",
+"option4": "King Lear, Act IV, Scene I",
 "answer": "1" },
                
  {
@@ -223,9 +223,9 @@ var questions =[{
                 
 {
 "question": "Lonely",
-"option1": "Mikhail Larionov",
-"option2": "Helen Frankenthaler",
-"option3": "Salvador Dali",
+"option1": "King John, Act I, Scene I",
+"option2": "Much Ado About Nothing, Act III, SCene II",
+"option3": "Othello, Act I, Scene II,
 "option4": "Coriolanus, Act IV, Scene I",
 "answer": "4" },
 {
