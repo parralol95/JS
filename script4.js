@@ -33,9 +33,9 @@ var questions =[{
 {
 "question": "Epileptic",
 "option1": "King Lear, Act II, Scene IV",
-"option2": "Coriolanus, Act I, Scene III",
-"option3": "Hamlet, Act III, Scene I",
-"option4": "King Lear, Act IV, Scene I",
+"option2": "Julius Caesar, Act III, Scene I",
+"option3": "Antony and Cleopatra, Act I, Scene III",
+"option4": "Hamlet, Act II, Scene I",
 "answer": "1" },
                
  {
