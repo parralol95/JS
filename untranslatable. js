@@ -32,9 +32,9 @@ var questions =[{
 
 {
 "question": "Gökotta, Swedish",
-"option1": "Mario Vargas Llosa",
+"option1": "Ma",
 "option2": "Toni Morrison",
-"option3": "Luigi Pirandello",
+"option3": "To wake up early with the purpose of hearing the first bird sing",
 "option4": "Imre Kertész",
 "answer": "3" },
                
@@ -43,149 +43,149 @@ var questions =[{
 "option1": "Bob Dylan",
 "option2": "wole soyinka",
 "option3": "Peter Handke",
-"option4": "Thomas Mann",
+"option4": "A beautiful girl, as long as she's being viewed from behind",
 "answer": "4" }, 
 
 {
 "question": "Backpfeifengesicht, German language",
 "option1": "Toni Morrison",
-"option2": "Hermann Hesse",
+"option2": "A face badly in need of a fist",
 "option3": "Derek Walcott",
 "option4": "Saul Bellow",
 "answer": "2" }, 
                 
 {
-"question": "Aware, Japanese language",
+"question": "Aware, Japanese",
 "option1": "J. M. G. Le Clézio",
 "option2": "wole soyinka",
-"option3": "T.S.Eliot",
+"option3": "The bittersweetness of a brief and fading moment of trascendent beauty",
 "option4": "Isaac Bashevis Singer",
 "answer": "3" }, 
                 
 {
-"question": "1907, The Jungle Book(1894), novel",
+"question": "Tsundoku, Japanese",
 "option1": "Elias Canetti",
 "option2": "Mo Yan",
 "option3": "Saul Bellow",
-"option4": "Rudyard Kipling",
+"option4": "The act of leaving a book unread after buying, typically piling it up together with other such unread books",
 "answer": "4" }, 
                 
 {
-"question": "1938, The Good Earth(1931), novel",
-"option1": "Pearl S.Buck",
+"question": "Shlimazl, Yiddish",
+"option1": "A chronically unlucky person
 "option2": "isaac bashevis singer",
 "option3": "Kenzaburō Ōe",
 "option4": "Bob Dylan",
 "answer": "1" }, 
                 
 {
-"question": "1945, Sonetos de la Muerte- Sonnets of Death(1914), collection of poems",
+"question": "Rire dans sa barbe, French",
 "option1": "Mo Yan",
 "option2": "Mario Vargas Llosa",
 "option3": "Saul Bellow",
-"option4": "Gabriela Mistral",
+"option4": "To laugh in your beard quietly while thinking about something that happened in the past"
 "answer": "4" }, 
                 
 {
-"question": "1950, A History of Western Philosophy and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day(1945), essay",
+"question": "Waldeinsamkeit, German",
 "option1": "Imre Kertész",
 "option2": "Toni Morrison",
-"option3": "Berstrand Russell",
+"option3": "The feeling of being alone in the woods"
 "option4": "Olga Tokarczuk",
 "answer": "3" }, 
                 
 {
-"question": "1966, In den Wohnungen des Todes-In the House of Death(1947), collection of poems,
+"question": "Hanyauku, Rukwangali",
 "option1": "José Saramago",
 "option2": "Isaac Bashevis Singer",
-"option3": "Nelly Sachs",
+"option3": "The act of walking on tiptoes across warm sand",
 "option4": "Derek Walcott",
 "answer": "3" }, 
  
 {
-"question": "1968, The Dancing Girl of Izu(1926), novel",
+"question": "Gattare, italian",
 "option1": "isaac bashevis singer",
-"option2": "J.M.G. Le Clézio",
+"option2": "A woman often old and lonely, who devotes herself to stray cats",
 "option3": "Yasunari Kawabata",
 "option4": "Saul Bellow",
 "answer": "3" }, 
                 
 {
-"question": "1971, Twenty Love Poems and a Song of Despair(1924), poetry collection",
-"option1": "Pablo Neruda",
+"question": "Prozvonit, Czech",
+"option1": "To make a call to someone, on his/her mobile phone in order to make them call back"
 "option2": "wole soyinka",
 "option3": "J. M. G. Le Clézio",
 "option4": "Peter Handke",
 "answer": "1" }, 
                 
 {
-"question": "1975, Cuttlefish Bones(1925), poetry collection",
+"question": "Iktsuarpok, Inuit"
 "option1": "Mario Vargas Llosa",
-"option2": "Eugenio Montale",
+"option2": "The frustration of waiting for someone to turn up"
 "option3": "José Saramago",
 "option4": "Bob Dylan",
 "answer": "2" }, 
                 
 {
-"question": "1953, The World Crisis(1923), non fiction novel",
+"question": "Papakata, Cook Islands Maori",
 "option1": "Toni Morrison",
 "option2": "Mario Vargas Llosa",
 "option3": "Olga Tokarczuk",
-"option4": "Winston Churchill",
+"option4": "To have one leg shorter than the other",
 "answer": "4" }, 
 {
-"question": "1964, Nausea(1938), novel",
-"option1": "Jean-Paul Sartre",
+"question": "Friolero, Spanish",
+"option1": "A person who is especially sensitive to cold weather and temperatures",
 "option2": "isaac bashevis singer",
 "option3": "Kenzaburō Ōe",
 "option4": "Tomas Tranströmer",
 "answer": "1" },
                 
 {
-"question": "1962, East of Eden( 1952), novel",
+"question": "Schilderwald, German"
 "option1": "J. M. G. Le Clézio",
 "option2": "Saul Bellow",
 "option3": "wole soyinka",
-"option4": "John Steinbeck",
+"option4": "A street crowded with so many road signs that you become lost",
 "answer": "4" },
                 
 {
-"question": "1954, The Old Man and the Sea(1952), novel",
-"option1": "Ernest Hemingway",
+"question": "Utepils, Norwegian",
+"option1": "To sit outside on a sunny day enjoyin a beer",
 "option2": "Olga Tokarczuk",
 "option3": "Svetlana Alexievich",
 "option4": "Bob Dylan",
 "answer": "1" },
                 
 {
-"question": "1958, Doctor Zhivago(1966), novel ",
+"question": " Mamihlapinatapei, Yogan",
 "option1": "Toni Morrison",
 "option2": "isaac bashevis singer",
-"option3": "Boris Pasternak",
+"option3": "A meaningful and wordless look shared by two people who both desire to initiate something",
 "option4": "wole soyinka",
 "answer": "3" },
                 
 {
-"question": "1906, Barbarian Odes(1877), poetry",
+"question": "Culaccino, Italian",
 "option1": "Derek Walcott",
 "option2": "Tomas Tranströmer",
-"option3": "Giosuè Carducci",
+"option3": "The mark left on a table by a moist glass",
 "option4": "Imre Kertész",
 "answer": "3" },
                 
 {
-"question": "1920, Growth of the Soil(1917), novel",
+"question": "Ilunga, Tshiluba",
 "option1": "Elfriede Jelinek",
 "option2": "Mo Yan",
-"option3": "Knut Hamsun",
+"option3": "A person who is ready to forgive any abuse, the first, the second, but not the third time"
 "option4": "Derek Walcott",
 "answer": "3" }, 
                 
 {
-"question": "1996, Dlatego żyjemy-That is what we are living for(1952), poetry collection",
+"question": "Kyoikumama, Japanese",
 "option1": "Jaroslav Seifert",
 "option2": "Kenzaburō Ōe",
-"option3": "Wisława Szymborska",
+"option3": "Mother who pushes her children into academic achievements",
 "option4": "Elias Canetti",
 "answer": "3" },
                 
@@ -198,46 +198,46 @@ var questions =[{
 "answer": "2" },
                 
 {
-"question": "1983, Lord of the flies(1954), novel ",
-"option1": "William Golding",
+"question": "Age-otori, Japanese",
+"option1": "To look worse after a haircut",
 "option2": "Isaac Bashevis Singer",
 "option3": "Tomas Tranströmer",
 "option4": "Derek Walcott",
 "answer": "1" },
                 
 {
-"question": "1985, Les Géorgiques-The Georgics(1981), novel",
+"question": "Chai-Pani, Hindi",
 "option1": "Elfriede Jelinek",
 "option2": "Imre Kertész",
 "option3": "Kenzaburō Ōe",
-"option4": "Claude Simon",
+"option4": "Money given to someone often a bureaucratic worker to get things done",
 "answer": "4" },
                 
 {
-"question": "1988, The Day the Leader was Killed(1983), novel",
+"question": "Won, Korean",
 "option1": "Jaroslav Seifert",
 "option2": "Mo Yan",
-"option3": "Naguib Mahfouz",
+"option3": "The reluctance on a person's part to let go of an illusion",
 "option4": "Elias Canetti",
 "answer": "3" },
                 
 {
-"question": "2007, The Good Terrorist(1985),novel",
+"question": "Tokka, Finnish",
 "option1": "Tomas Tranströmer",
 "option2": "Isaac Bashevis Singer",
 "option3": "Kenzaburō Ōe",
-"option4": "Doris Lessing",
+"option4": "A large herd of reindeer",
 "answer": "4" },
 {
-"question": "1997, Johan Padan and the Discovery of the Americas(1992),novel ",
-"option1": "Dario Fo",
+"question": "Schadenfreude, German",
+"option1": "Enjoyment obtained from the misery of others",
 "option2": "Elfriede Jelinek",
 "option3": "Jaroslav Seifert",
 "option4": "Elias Canetti",
 "answer": "1" },
 {
-"question": "2013, The View from Castle Rock(2006), collection of short stories",
-"option1": "Alice Munro",
+"question": "Wabi-sabi, Japanese",
+"option1": "Accepting the natural cycle of grouwth and decay",
 "option2": "Svetlana Alexievich",
 "option3": "Elfriede Jelinek",
 "option4": "Mo Yan",
