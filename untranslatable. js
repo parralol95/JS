@@ -1,5 +1,5 @@
 var questions =[{
-"question": "Fernweh from German language",
+"question": "Fernweh, German language",
 "option1": "Feeling homesick for a place you have never been to",
 "option2": "Feeling sick",
 "option3": "To have a feeling of horrible emptiness ",
@@ -7,7 +7,7 @@ var questions =[{
 "answer": "1" },
 
 {
-"question": "komorebi, from Japanese language",
+"question": "komorebi, Japanese language",
 "option1": "Dappled light effect that happens when sunlight shines in through trees",
 "option2": "An optical phenomenon called "fata morgana" mirage ",
 "option3": "An atmosphere of complete peace and happiness",
@@ -15,7 +15,7 @@ var questions =[{
 "answer": "1" },
 
 {
-" question": "Tingo, from Pascuense language ",
+" question": "Tingo, Pascuense language ",
 "option1": "To sell thing that are not your proprierty",
 "option2": "To steal all the possessions out of a neighbour's house by borrowing and not returning",
 "option3": "To snatch a purse at the train statiom",
@@ -23,15 +23,15 @@ var questions =[{
 "answer": "2" },
 
 {
-"question": " Pochemuchka, form Russian language",
+"question": "Pochemuchka, Russian language",
 "option1": "A person who asks too many questions",
-"option2": "Isaac Bashevis Singer",
-"option3": "Saul Bellow",
-"option4": "isaac bashevis singer",
+"option2": "A person who sleep to much",
+"option3": "A person who always tells jokes",
+"option4": "A person who has a bad memory",
 "answer": "1" },
 
 {
-"question": "1934, One, No One and One Hundred Thousand(1926), novel",
+"question": "Gökotta, Swedish",
 "option1": "Mario Vargas Llosa",
 "option2": "Toni Morrison",
 "option3": "Luigi Pirandello",
@@ -39,7 +39,7 @@ var questions =[{
 "answer": "3" },
                
  {
-"question": "1929, The Magic Mountain(1924), novel",
+"question": "Bakku-shan, Japanese language",
 "option1": "Bob Dylan",
 "option2": "wole soyinka",
 "option3": "Peter Handke",
@@ -47,7 +47,7 @@ var questions =[{
 "answer": "4" }, 
 
 {
-"question": "1946, Narcissus and Goldmund(1930), novel",
+"question": "Backpfeifengesicht, German language",
 "option1": "Toni Morrison",
 "option2": "Hermann Hesse",
 "option3": "Derek Walcott",
@@ -55,7 +55,7 @@ var questions =[{
 "answer": "2" }, 
                 
 {
-"question": "1948, The Love Song of J. Alfred Prufrock(1915), poem",
+"question": "Aware, Japanese language",
 "option1": "J. M. G. Le Clézio",
 "option2": "wole soyinka",
 "option3": "T.S.Eliot",
